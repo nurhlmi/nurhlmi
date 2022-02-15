@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![jquery](https://user-images.githubusercontent.com/43833710/154094911-6a8a6137-3ea9-488d-bb4f-8a90207ac2d5.png)
+
 <!--
 **nurhlmi/nurhlmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
