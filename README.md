@@ -2,6 +2,7 @@
 
 ![jquery](https://user-images.githubusercontent.com/43833710/154094911-6a8a6137-3ea9-488d-bb4f-8a90207ac2d5.png)
 ![react](https://user-images.githubusercontent.com/43833710/154095141-4ed9cb9e-47a9-4d62-9c22-3f3c0a70460d.png)
+![alfred](https://afnizarnur.com/static/94773f96918bfd57e006787d5d990341/aff39/alfred.png)
 
 <!--
 **nurhlmi/nurhlmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
